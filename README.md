@@ -8,5 +8,11 @@ With the amount of noise in this market, it is not only difficult for consumers 
 Although there is plenty of research on product recommendation systems, there is not much work done on recommendation systems that cater to under-serving skin tones in the beauty community. In this report we present an approach that would consider the user’s skin tone, skin type and recommend the best suited products. The approach shows an accuracy of 64% while considering all the skin tones and skin types on self-scraped data set, extracted from the Sephora.
  
 
+Introduction
+1.1	Recommendation  Systems
 
-![image](https://user-images.githubusercontent.com/56017346/121244706-315b7580-c86d-11eb-9728-1f0cf3345c4e.png)
+Recommendation Systems are designed to recommend relevant customized con- tent or services to users based on different factors. The recommendations are pre- dictions that would be most liked by user based on user-item data. The predictions could be based on user’s likes, ratings or purchase history. Companies like Amazon, Netflix, YouTube utilize recommendation systems to keep their users engaged by providing with a customized product list. This has increased the scope of what user can buy since they are exposed to more products through recommendations. Since last decade, numerous firms have impacted the retail market by providing customized products to consumers based on their inputs such as StitchFix, Function of Beauty, Proven Skincare etc. All of these companies have carved a new path by addressing the gap in the market while helping users understand what is right for them. [1].
+ 
+1.2	Working of a Recommendation System
+
+![image](https://user-images.githubusercontent.com/56017346/121244799-518b3480-c86d-11eb-9471-0f881bbab96e.png)
