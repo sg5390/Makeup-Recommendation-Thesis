@@ -16,3 +16,19 @@ Recommendation Systems are designed to recommend relevant customized con- tent o
 1.2	Working of a Recommendation System
 
 ![image](https://user-images.githubusercontent.com/56017346/121244799-518b3480-c86d-11eb-9471-0f881bbab96e.png)
+
+Figure 1.1: Recommendation System Model
+
+
+1.	Corpus Data
+Consists of collection of all possible item as well as user data available at the respective websites. The data can be in millions which is input into the candidate generation block.
+2.	Candidate Generation
+Candidate generation filters out the content or products to hundreds based on the user’s features such as type of product, amount of money spent on an average by a user, frequency of buying a particular product. For example, the candidate generator in YouTube reduces billions of videos down to hundreds or thousands based on user’s video preferences. [6]
+ 
+3.	Ranking
+Ranking is used as a final filter to recommend the closest predictions based on user’s ratings, sentiments or dislikes. The ranking is also dependent on user as well as item features such as price of the product, brand of the product, ratings for that product. The final list is the list of products that are shown to the user as a recommended list as shown in fig 1.2.
+
+![image](https://user-images.githubusercontent.com/56017346/121244973-7d0e1f00-c86d-11eb-9f7e-b930bfb25659.png)
+Figure 1.2: Recommendation based on Amazon purchase history![image](https://user-images.githubusercontent.com/56017346/121244989-81d2d300-c86d-11eb-8e9e-c769514f9329.png)
+
+
